@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bonjour la famille
 je faire une modification
+=======
+bonjour la famille
+>>>>>>> 1eb7b8246dfa8975f3ddfc157b586703769ef760
